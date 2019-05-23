@@ -1,4 +1,4 @@
-# usage : ./up.sh /path/to/list/server
+# usage: ./up.sh /path/to/list/server
 # export csv: ./up.sh /path/to/list/server > file.csv
 # listServeur est un argument des serveurs a tester
 listServeur=$1
